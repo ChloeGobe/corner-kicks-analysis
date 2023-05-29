@@ -12,19 +12,15 @@ Using Skillcorner broadcast tracking data - creation of a model that identifies 
 
 ### Summary
 1. [Description of the project](#description)
-2. [Non-code deliverables](#deliverables)
-3. [Structure of the repository](#repo)
-4. [Data](#data)
-5. [References](#sources)
+2. [Structure of the repository](#repo)
+3. [Data](#data)
+4. [References](#sources)
 
 
 ## Identification of corner kicks situations <a id="description"></a>
 The project focuses on identifiying corner kicks situations from SkillCorner open data and handling these situations in order to produce some analysis for a fictionnal staff.
 
-## Deliverables <a id='deliverables'></a>
-
-- The **report** is available in the repository `Report.md`. The report explains the methods used, the pros and cons, and what could have been done given more time.
-- A **5-slide presentation** is available on Google Slides [here](https://docs.google.com/presentation/d/1a_-aa4slQeo_sXwDU9mDcgF-JMPH5nxUrw8spO8DbbU/edit#slide=id.p). The purpose is to give an idea of possible insights to give to coaching staff before a game (POC)
+A **report** is available to explain the methods used, the pros and cons, and what could have been done given more time.
 
 ## Structure of the repository <a id="repo"></a>
 
